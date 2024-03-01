@@ -1,0 +1,13 @@
+.stockNav{
+    display: flex;
+    border-bottom: 1px solid #fefefe;
+}
+
+.stockNav a{
+  background: transparent;
+  border: none;
+  color: #fefefe;
+  padding: 0 15px 15px;
+  cursor: pointer;
+  text-decoration: none;
+}

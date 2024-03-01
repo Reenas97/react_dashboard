@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    color: #fefefe;
+}
+
+header p{
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.navbar ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar li a{
+    color: #fefefe;
+    text-decoration: none;
+}
